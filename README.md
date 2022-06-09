@@ -24,7 +24,7 @@ IMAGE DATASET: The data consists of 48x48 pixel grayscale images of faces. The t
                              5-surprise 
 
                              6-Neutral 
-                             ![image](https://user-images.githubusercontent.com/28940123/172786357-eb734667-e20c-4062-b91e-6c7fcb31cf47.png)
+![image](https://user-images.githubusercontent.com/28940123/172786357-eb734667-e20c-4062-b91e-6c7fcb31cf47.png)
                              
 
 > Team Members:
